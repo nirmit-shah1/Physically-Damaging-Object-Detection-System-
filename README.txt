@@ -1,0 +1,1 @@
+RUN THE GUN DETECTOR PROGRAM AND SPECIFY THE PATH OF THE VIDEO IN THE CASCADE ARGUMENT. We have created two different project files. In our first file we used coco dataset for harmful object detection. From coco dataset we detected knife, scissors and truck(heavy transportation vehicle) as harmful objects. In the second file we have used custom gun dataset for gun detection.
